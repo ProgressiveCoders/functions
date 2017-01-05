@@ -2,7 +2,7 @@
 
 _Please put the problem that the **pilot initiative** is solving._
 
-## Solution
+## (Optional) Solution
 
 _Please put the solution for the problem_
 
