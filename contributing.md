@@ -1,6 +1,6 @@
 # Problem
 
-_Please put the problem the **pilot initiative** is solving._
+_Please put the problem that the **pilot initiative** is solving._
 
 # Solution
 
