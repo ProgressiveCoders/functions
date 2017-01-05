@@ -1,4 +1,4 @@
-## Problem
+## Problem / Description
 
 _Please put the problem that the **pilot initiative** is solving._
 
