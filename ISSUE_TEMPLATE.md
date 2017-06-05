@@ -24,7 +24,7 @@ You can leave comments like this one in place -- just replace ... with your even
 ...
 
 #### Decision Making
-<!-- Consent to continue/implement, volunter staff super majority, community super majority. Include length of time decision is open  -->
+<!-- Consent to continue/implement, volunteer staff super majority, community super majority. Include length of time decision is open  -->
 ...
 
 ## Optional Information
