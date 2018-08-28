@@ -1,9 +1,9 @@
 ## Items to Consider Before Submitting Your Proposal
 
-Following are best practice steps and requirements for contributing your community Operations (or functions) idea to the ProgCode community for consideration. If you want to submit a tech idea to the community, please follow the **New Partners Best Practices Guide, [**here**](https://github.com/ProgressiveCoders/projects/projects/1)
+Following are best practice steps and requirements for contributing your community Operations (or functions) idea to the ProgCode community for consideration. If you want to submit a tech idea to the community, please follow the **New Partners Best Practices Guide**, [**here**](https://github.com/ProgressiveCoders/projects/projects/1)
 
 ### Problem / Description (Required)
-Please describe your idea or proposal. What is the problem your **proposed change** may solve?
+Please describe your idea or proposal. What is the issue your **proposed change** may improve?
 
 ### Solution (Best Practice Option)
 Briefly describe how your idea or proposal how might enhance the community _(i.e., streamline existing processes, increase community engagement, distribute operations tasks, make ProgCode more inclusive, etc.)_.
