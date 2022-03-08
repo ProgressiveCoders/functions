@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/ProgressiveCoders/functions.png?label=ready&title=Ready)](https://waffle.io/ProgressiveCoders/functions)
 ## ProgCode Operations Team Functions
 [**Progressive Coders Network**](https://progcode.org) is a non-partisan, [**non-hierarchical**](https://medium.com/progressive-coders-network/structure-of-the-tyrannyless-37007b5ac7f5) community of technologists and (frequently non-coding!) tech support volunteers whose mission is to remove or reduce the impact of big money in politics by supporting the creation of open source tools to empower the grassroots. 
 
